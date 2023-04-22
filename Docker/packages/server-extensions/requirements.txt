@@ -1,0 +1,16 @@
+# JupyterLab Server Extensions (pip-only)
+jupyterlab-lsp
+jupyterlab-latex
+jupyterlab-spellchecker
+
+# Language Servers
+jedi-language-server
+python-lsp-server[all]
+
+# LSP dependencies
+yapf
+pylint
+
+# Themes
+jupyterlab_materialdarker 
+theme-darcula

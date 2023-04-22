@@ -1,0 +1,7 @@
+# Jupyter Lab
+jupyter
+jupyterlab==3.6.3
+jupyter-server~=2.5
+
+# Security
+keyring[completion]
